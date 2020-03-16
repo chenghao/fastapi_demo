@@ -1,0 +1,6 @@
+fastapi
+pymysql
+peewee
+pyjwt
+python-multipart
+passlib[bcrypt]
